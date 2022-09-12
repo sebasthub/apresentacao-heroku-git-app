@@ -1,0 +1,28 @@
+.principal-container {
+    background-color: black;
+    height: 40rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.principal-container h1{
+    text-align: start;
+}
+
+.secondary-container{
+    width: 30rem;
+    padding: 10rem;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 40pt;
+} 
+
+img{
+    width: 40rem;
+}

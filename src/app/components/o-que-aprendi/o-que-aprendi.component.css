@@ -1,0 +1,10 @@
+.aprendi{
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(106, 106, 106);
+    color: rgb(205, 205, 205);
+}

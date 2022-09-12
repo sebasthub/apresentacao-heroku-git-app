@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { NaviBarComponent } from './components/navi-bar/navi-bar.component';
 import { ContentComponent } from './components/content/content.component';
 import { GitApresentationComponent } from './components/git-apresentation/git-apresentation.component';
+import { OQueAprendiComponent } from './components/o-que-aprendi/o-que-aprendi.component';
+import { HerokuApresentacaoComponent } from './components/heroku-apresentacao/heroku-apresentacao.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NaviBarComponent,
     ContentComponent,
-    GitApresentationComponent
+    GitApresentationComponent,
+    OQueAprendiComponent,
+    HerokuApresentacaoComponent
   ],
   imports: [
     BrowserModule,
